@@ -1,0 +1,2 @@
+FROM centos
+MAINTAINER 357943631@qq.com
